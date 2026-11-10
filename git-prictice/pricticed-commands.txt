@@ -1,0 +1,150 @@
+git config --global user.name "Muhammd Fatim"
+ git config --global use.email "muhammadfatim222@gmail.com"
+   git config --global color.ui auto
+   git clone [https://github.com/muhammadfatim222/shell-scripting-for-devops.git]
+   sudo dnf install https
+   git clone [https://github.com/muhammadfatim222/shell-scripting -for-devops.com]
+   clear
+   git clone https://github.com/muhammadfatim222/shell-scripting-for-devops.git
+   cd shell-scripting-for-devops
+   ls 
+   cd linux-administration-toolkit
+   ls -l
+    cd ..
+    ls 
+    pwd 
+    cd ..
+    git clone https://github.com/muhammadfatim222/shell-scripting-for-devops.git
+   ls 
+   rm -r shell-scripting-for-devops
+    cd fatim
+    ls 
+   rm -r shell-scripting-for-devops
+    cd ..
+   ls
+   git clone https://github.com//muhammadfatim222/linux-foundation.git
+    ls 
+   clear
+    ls -l
+    rm -r fatim
+    rm fatim
+    rm -R fatim
+    mkdir git-prictice
+    cd git-prictice 
+  touch git.txt
+   vim git.text
+  163  git status
+  164  git status 
+  165  cd ..
+  166  git add git-prictice 
+  167  git init
+  168  git status
+  169  git reset 
+  170  cd git-prictice
+  171  git init
+  172  git status 
+  173  cd ..
+  174  git clone https://github.com/muhammadfatim222/Git-Github.git
+  175  cd Git-Github
+  176  ls -l
+  177  mkdir git-prictice 
+  178  cd git-prictice 
+  179  touch git.txt
+  180  echo "My git and github prictice ">git.txt
+  181  cat git.txt
+  182  git status 
+  183  git remote -v
+  184  git add git.txt
+  185  git commit -m "added git prictice"
+  186  git push origin main
+  187  git push origion main
+  188  git push origin main
+  189  pwd
+  190  git push origin main
+  191  git status 
+  192  git add .
+  193  git status 
+  194  git reset git.txt
+  195  git status 
+  196  git add git.txt
+  197  git add .
+  198  git origin main
+  199  git commit -m "committed another one "
+  200  git status 
+  201  git push origin main
+  202  lls -l
+  203  ls -l
+  204  touch "lets cheak the git diff and git diff --staged commands ">>git.txt
+  205  cat git.txt
+  206  ]vim git.txt
+  207  nano git.txt
+  208  cat git.txt
+  209  git diff
+  210  git diff --staged 
+  211  git diff 
+  212  git status 
+  213  git commit -m "git diff and git diff --staged commands commited "
+  214  git add .
+  215  git status 
+  216  git add .
+  217  git diff 
+  218  git diff
+  219  git diff --stage
+  220  git diff --staged 
+  221  git push origin main
+  222  git status 
+  223  git diff
+  224  git diff --staged 
+  225  git commit -m "git diff and git diff --staged commands prictice commited "
+  226  git push origin main
+  227  touch file.txt
+  228  ls 
+  229  git add 
+  230  git add .
+  231  git commit -m "hahhhah"
+  232  git push origin main 
+  233  git status 
+  234  git rm file.txt
+  235  git status 
+  236  ls 
+  237  touch file.txt
+  238  git add .
+  239  git push  origin main
+  240  git push origin main 
+  241  ls 
+  242  git mv file.txt me.txt
+  243  ls 
+  244  git rm me.txt
+  245  git status 
+  246  git rm me.txt
+  247  git -f me.txt
+  248  git rm -f me.txt
+  249  git status 
+  250  git commit -m "deleted unnecessary files"
+  251  git push origin main 
+  252  ls
+  253  nano git.txt
+  254  cat git.txt
+  255  git add .
+  256  git commit -m "commited again"
+  257  git push origin main
+  258  pwd 
+  259  git pull origin main
+  260  ls -l
+  261  nano pull.txt
+  262  cat pull.txt
+  263  git add pull.txt
+  264  git add .
+  265  git commit -m "pulled text commited"
+  266  git push origin main 
+  267  git status 
+  268  git push origin main 
+  269  git status 
+  270  git remote -v
+  271  git push origin main
+  272  git config --global colors.ui auto
+  273  git branch
+  274  git branch login
+  275  git chekout login
+  276  git checkout login
+  277  git checkout main
